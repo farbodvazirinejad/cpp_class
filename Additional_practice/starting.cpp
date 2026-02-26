@@ -3,6 +3,8 @@ using namespace std;
 
 //this is the hello world code
 int main(){
-    cout<< "hello world!!\n";
-    return 1;
+    cout<< "farbod vazirinejad"<<endl;
+    cout<< "metaleng"<<endl;
+    cout<< 404533029 <<endl;
+    return 0;
 }
